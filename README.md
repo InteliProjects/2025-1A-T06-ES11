@@ -12,11 +12,11 @@ Desenvolver de um pipeline de dados em tempo real, integrado a tecnologias da In
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - 
-  - Link do repositório: https://github.com/InteliProjects/2025-1A-T06-ES11-G03
+  - Link do repositório: https://github.com/InteliProjects/2025-1A-T06-ES11-G01
 
 
 - Grupo 2 - 
-  - Link do repositório: https://github.com/InteliProjects/2025-1A-T06-ES11-G03
+  - Link do repositório: https://github.com/InteliProjects/2025-1A-T06-ES11-G02
 
 
 - Grupo 3 -  
